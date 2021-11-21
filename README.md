@@ -1,3 +1,3 @@
 # Praticando
 
-Praticando coisas básicas que aprendi com o decorrer dos meus estudos. 
+Praticando coisas que aprendi com o decorrer dos meus estudos. 
