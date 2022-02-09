@@ -1,3 +1,3 @@
 # Praticando_Codigos
 
-Neste repositório eu posto alguns códigos básicos, onde pratico algumas coisas (:
+Neste repositório eu posto alguns códigos básicos, coisas que vou praticando ao longo do meu desenvolvimento (:
