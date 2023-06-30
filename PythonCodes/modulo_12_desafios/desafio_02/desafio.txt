@@ -1,0 +1,7 @@
+
+- Criar um programa que calcula a quantidade de tinta necessária para pintar uma parede.
+
+O usuário deverá fornecer as seguintes informações:
+Rendimento, Altura e Largura
+
+O programa deve mostrar na tela a mensagem "Você necessita de X latas de tinta

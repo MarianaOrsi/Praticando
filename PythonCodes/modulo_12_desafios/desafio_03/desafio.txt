@@ -1,0 +1,11 @@
+Criar um programa que gera 3 listas de acordo com a necessidade logo abaixo:
+
+- quem tem carro e trabalha a noite
+
+- quem tem carro e trabalha de dia
+
+- quem não tem carro
+
+lista 1 = funcionários que tem carro e trabalham a noite
+lista 2 = funcionários que tem carro e trabalham durante o dia
+lista 3 = funcionários que não tem carro

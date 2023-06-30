@@ -1,0 +1,11 @@
+# Desafio 01 -  if, elif e else
+
+Criar um programa que dependendo de uma temperatura (em celsius)
+ele retorna o ponto de cozimento em português. O usuário deverá fornecer a temperatura
+
+Temperaturas - Cozimento
+120ºF ou 48ºC - Rare (Selada / Crua)
+130ºF ou 54ºC - Medium Rare (Mal passado)
+140ºF ou 60ºC - Medium (Ao ponto)
+150ºF ou 65ºC - Medium (Ao ponto para bem passada)
+160ºF ou 71ºC - Well Done (Bem passada)
